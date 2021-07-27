@@ -18,3 +18,16 @@ This application is built on the [Android FHIR SDK](https://github.com/google/an
 * Identity and Access Management provided by [Keycloak](https://www.keycloak.org) allowing easy integration with national identity services.
 * Integration with data warehouse and realtime dashboards for reporting purposes
 * NFC Card and contactless biometric integration available
+
+
+### About
+
+The OpenSRP FHIR Core Smart Vaccination Certificates App is being developed by [Ona](https://ona.io) with support from WHO.  Ona are the lead developers and technical stewards of [OpenSRP](https://smartregister.org) a recognized global good digital health platform.
+
+
+### Interested in Learning More?
+
+Contact [info@fhircore.org](mailto:info@fhircore.org) to setup a demo and learn more about how OpenSRP FHIR Core can be used to support your vaccine rollout.
+
+
+
