@@ -24,7 +24,7 @@ This application is built on the [Android FHIR SDK](https://github.com/google/an
 
 ### About
 
-The OpenSRP FHIR Core Smart Vaccination Certificates App is being developed by [Ona](https://ona.io) with support from WHO.  Ona are the lead developers and technical stewards of [OpenSRP](https://smartregister.org) a recognized global good digital health platform.
+The OpenSRP FHIR Core Smart Vaccination Certificates App is developed by [Ona](https://ona.io) with support from WHO.  Ona are the lead developers and technical stewards of [OpenSRP](https://smartregister.org) a recognized global good digital health platform.
 
 
 ### Interested in Learning More?
