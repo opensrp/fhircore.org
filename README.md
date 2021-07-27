@@ -11,6 +11,7 @@ This application is built on the [Android FHIR SDK](https://github.com/google/an
 ### Key Features
 
 * Works 100% Offline
+* FHIR Native application based on Google's [Android FHIR SDK](https://github.com/google/android-fhir)
 * Forms easily adaptable using FHIR Questionnaires 
 * Web interface to manage providers, locations and view patient records
 * Integrates with Vaccine Certificate Issuance server
@@ -18,6 +19,7 @@ This application is built on the [Android FHIR SDK](https://github.com/google/an
 * Identity and Access Management provided by [Keycloak](https://www.keycloak.org) allowing easy integration with national identity services.
 * Integration with data warehouse and realtime dashboards for reporting purposes
 * NFC Card and contactless biometric integration available
+
 
 
 ### About
