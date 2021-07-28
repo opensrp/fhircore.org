@@ -7,10 +7,6 @@ This application is built on the [Android FHIR SDK](https://github.com/google/an
 ### App Demo
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Sj3ogB-PVVo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-poop
-
-<center><iframe width="336" height="720" src="https://www.loom.com/embed/9beb0ec92745489a805dabbd1e0b5c40" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
-
 ### Key Features
 
 * Works 100% Offline
